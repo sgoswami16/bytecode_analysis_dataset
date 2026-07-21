@@ -1,0 +1,14 @@
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/obfuscationmethods/InstructionOrderRearrangeConfuse.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/obfuscationmethods/FalseBranchConfuse.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/obfuscationmethods/FlowerInstructionConfuse.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/obfuscationmethods/IncompleteInstructionsConfuse.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/insertElement.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/ByteCodeOutput.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/ByteCodeInput.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/ByteCodeCleanAndRecovry.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/InsertIndex.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/FindJumpAndChangeBValue.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/CodeStingToArray.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/utils/ArrayToCodeString.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/Test.java
+/Users/gaman/Desktop/BOSC/BOSC/obfucsacion/src/Main.java
